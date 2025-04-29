@@ -1,0 +1,38 @@
+/* General page style */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: #f4f7f9;
+    color: #333;
+    text-align: center;
+    padding: 50px 20px;
+    margin: 0;
+}
+
+/* Heading style */
+h1 {
+    color: #2c3e50;
+    font-size: 2.5em;
+    margin-bottom: 10px;
+}
+
+/* Paragraph style */
+p {
+    font-size: 1.2em;
+    color: #555;
+    margin-bottom: 20px;
+}
+
+/* Link style */
+a {
+    display: inline-block;
+    text-decoration: none;
+    background-color: #3498db;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 8px;
+    transition: background-color 0.3s ease;
+}
+
+a:hover {
+    background-color: #2980b9;
+}
